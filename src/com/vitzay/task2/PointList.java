@@ -1,4 +1,4 @@
 package com.vitzay.task2;
 
-public class Task2 {
+public class PointList {
 }
